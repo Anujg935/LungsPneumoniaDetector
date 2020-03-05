@@ -1,11 +1,11 @@
-Flask == 0.11.1
+Flask
 gevent
 gunicorn
 keras
 numpy
 h5py
 pillow
-pandas==0.22.0
-tensorboard==1.14.0
-tensorflow==1.14.0
-tensorflow-estimator==1.14.0
+pandas
+tensorboard
+tensorflow
+tensorflow-estimator
